@@ -54,5 +54,5 @@ I now want to apply classes through tailwind.
 ## Author
 
 - Website - [Carlos Maracara](https://link-profile-maracara.netlify.app/)
-- Frontend Mentor - [@MaracaraCarlo](https://www.frontendmentor.io/profile/MaracaraCarlos)
+- Frontend Mentor - [@MaracaraCarlos](https://www.frontendmentor.io/profile/MaracaraCarlos)
 - Twitter - [@caboepio](https://twitter.com/caboepio)
